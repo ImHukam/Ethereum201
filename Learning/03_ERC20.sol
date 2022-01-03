@@ -2,8 +2,8 @@
 pragma solidity ^0.8.7;
 
 /**
- * @title ERC20 standard token implementation.
- * @dev Standard ERC20 token. This contract follows the implementation at https://goo.gl/mLbAPJ.
+ * ERC20 standard token implementation.
+ * Standard ERC20 token. This contract follows the implementation at https://goo.gl/mLbAPJ.
  */
 contract Token {
     
