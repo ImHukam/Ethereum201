@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: GPL-3.0
 
+// contract live on testnet: https://ropsten.etherscan.io/address/0xa142534c8b5eca38c924b146ec612c268f21e29a
 pragma solidity ^0.8.11;
 
 contract Token{
