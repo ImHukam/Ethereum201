@@ -15,7 +15,8 @@ contract Token{
 
     event Transfer(address indexed _from, address indexed _to , uint256 _value);
     event Approval(address indexed _owner, address indexed _spender, uint256 _value);
-
+    
+    // have to enter token details during contract deployment.
     constructor(string memory _name, string memory _symbol, uint256 _decimals, uint256 _totalSupply){
         name = _name;
         symbol = _symbol;
