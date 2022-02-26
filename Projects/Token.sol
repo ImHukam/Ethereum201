@@ -53,5 +53,4 @@ contract Token{
         success= true;
 
     }
-
 }
